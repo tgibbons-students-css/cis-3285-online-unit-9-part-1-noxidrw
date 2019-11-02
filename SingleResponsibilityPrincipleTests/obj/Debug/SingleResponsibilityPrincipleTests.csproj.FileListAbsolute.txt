@@ -8,3 +8,13 @@ C:\Users\tgibbons\Source\Repos\cis-3285-unit-9-practice-tgibbons-css\SingleRespo
 C:\Users\tgibbons\Source\Repos\cis-3285-unit-9-practice-tgibbons-css\SingleResponsibilityPrincipleTests\obj\Debug\SingleResponsibilityPrincipleTests.csproj.CoreCompileInputs.cache
 C:\Users\tgibbons\Source\Repos\cis-3285-unit-9-practice-tgibbons-css\SingleResponsibilityPrincipleTests\obj\Debug\SingleResponsibilityPrincipleTests.dll
 C:\Users\tgibbons\Source\Repos\cis-3285-unit-9-practice-tgibbons-css\SingleResponsibilityPrincipleTests\obj\Debug\SingleResponsibilityPrincipleTests.pdb
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\bin\Debug\SingleResponsibilityPrincipleTests.dll
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\bin\Debug\SingleResponsibilityPrincipleTests.pdb
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\bin\Debug\SingleResponsibilityPrinciple.exe
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\bin\Debug\SingleResponsibilityPrinciple.pdb
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\bin\Debug\SingleResponsibilityPrinciple.exe.config
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\obj\Debug\SingleResponsibilityPrincipleTests.csprojAssemblyReference.cache
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\obj\Debug\SingleResponsibilityPrincipleTests.csproj.CopyComplete
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\obj\Debug\SingleResponsibilityPrincipleTests.dll
+C:\UserData\School\CSS\Fall 2019\Software Design\Week 9 - SoftwareDesign\Assignment\SingleResponsibilityPrincipleTests\obj\Debug\SingleResponsibilityPrincipleTests.pdb
